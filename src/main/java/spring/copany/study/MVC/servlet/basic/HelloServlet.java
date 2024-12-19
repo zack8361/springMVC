@@ -1,4 +1,4 @@
-package spring.copany.study.MVC.basic;
+package spring.copany.study.MVC.servlet.basic;
 
 
 import jakarta.servlet.ServletException;
